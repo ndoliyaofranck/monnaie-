@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Économie Inspirée par la Bible</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #2d2d2d;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+        }
+
+        header p {
+            font-size: 1.2em;
+        }
+
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+
+        nav ul li a:hover {
+            color: #f0a500;
+        }
+
+        section {
+            padding: 40px 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        section h2 {
+            text-align: center;
+            font-size: 2em;
+            color: #333;
+        }
+
+        section p {
+            font-size: 1.2em;
+            line-height: 1.6;
+            color: #555;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+        }
+
+        footer {
+            background-color: #2d2d2d;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        footer a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+            font-size: 1.2em;
+        }
+
+        footer a:hover {
+            color: #f0a500;
+        }
+
+        form input, form textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 1.1em;
+        }
+
+        form button {
+            padding: 10px 20px;
+            background-color: #f0a500;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            font-size: 1.2em;
+            cursor: pointer;
+        }
+
+        form button:hover {
+            background-color: #e08900;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <h1>Redéfinir l'Économie des Pays en Développement selon les Lois Divines</h1>
+        <p>Une économie prospère grâce aux principes sacrés de la Bible</p>
+    </header>
+
+    <!-- NAVIGATION -->
+    <nav>
+        <ul>
+            <li><a href="#about">À propos</a></li>
+            <li><a href="#projects">Projets</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- ABOUT SECTION -->
+    <section id="about">
+        <h2>À propos</h2>
+        <p>Je suis N'DOLI Yao Franck-Abel, économiste passionné par l'application des principes divins dans l'économie. Ma mission est de promouvoir une gestion économique saine et prospère, en utilisant les enseignements de la Bible comme fondement pour résoudre les défis économiques mondiaux, notamment en Afrique.</p>
+        <p>Je crois fermement que l'économie des pays en développement peut sortir du chaos en appliquant les principes intemporels de la Bible. Mon objectif est de guider ces nations vers la prospérité durable, sans faillite, en suivant des lois économiques fondées sur la sagesse divine.</p>
+    </section>
+
+    <!-- PROJECTS SECTION -->
+    <section id="projects">
+        <h2>Projets</h2>
+        <ul>
+            <li><strong>Coalition entre l'économie biblique et l'économie africaine :</strong> Fusionner les enseignements bibliques avec les réalités économiques africaines pour un développement durable.</li>
+            <li><strong>Les lois fondamentales de l'économie selon Dieu :</strong> Expliquez ces lois et leur application dans les pratiques économiques modernes.</li>
+            <li><strong>L'application de ces lois pour une économie sans faillite :</strong> Inspiré de l'histoire de Joseph, ces lois permettent de créer une économie stable et prospère.</li>
+            <li><strong>Présentation de notre nouvelle économie :</strong> Décrire une économie sans faillite, respectueuse des principes divins.</li>
+            <li><strong>Publication de cette nouvelle économie sur les réseaux sociaux :</strong> Diffusion de cette nouvelle approche économique via les réseaux sociaux pour toucher un public mondial.</li>
+        </ul>
+    </section>
+
+    <!-- BLOG SECTION -->
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Articles à venir sur l'impact de la Bible dans l'économie moderne, l'impact de l'économie sur le développement, et des analyses des politiques économiques actuelles.</p>
+        <p>Suivez le blog pour des réflexions approfondies sur l'économie basée sur les principes divins et leurs applications pratiques.</p>
+    </section>
+
+    <!-- CONTACT SECTION -->
+    <section id="contact">
+        <h2>Contact</h2>
+        <form action="submit_form.php" method="POST">
+            <input type="text" name="name" placeholder="Votre nom" required>
+            <input type="email" name="email" placeholder="Votre email" required>
+            <textarea name="message" placeholder="Votre message" required></textarea>
+            <button type="submit">Envoyer</button>
+        </form>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>Suivez-moi sur les réseaux sociaux :</p>
+        <a href="https://www.instagram.com/ndoli696?igsh=aWRwb2xleDRva296">Instagram</a> |
+        <a href="https://www.facebook.com/share/15NHy8jhT7/">Facebook</a> |
+        <a href="https://www.linkedin.com/in/yao-franck-abel-n-doli-aaa37428b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+    </footer>
+
+</body>
+</html>
